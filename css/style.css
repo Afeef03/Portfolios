@@ -15,7 +15,7 @@
   /* --bg-seconday:white; */
 }
 .navbar-toggler{
-  background-color:var("--color");
+  background-color:  #0077ff;
 }
 .dark-theme {
   --bg-primary: white;
